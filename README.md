@@ -325,6 +325,9 @@ myTableA.insert({
 ## Demo Code
 https://github.com/StevenPerez/nowdb-demo
 
+## Live Demo
+https://nowdb.herokuapp.com/
+
 <img src="https://github.com/StevenPerez/images/blob/master/nowdb.gif"></img>
 
 
